@@ -1,0 +1,2 @@
+C:\Users\lifan\source\repos\贪吃蛇\Debug\贪吃蛇.exe
+C:\Users\lifan\source\repos\贪吃蛇\Debug\贪吃蛇.pdb
